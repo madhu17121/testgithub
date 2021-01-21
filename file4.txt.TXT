@@ -9,5 +9,12 @@ welcome develop
 here i am in develop branch
 madhusmita nanda
 >>>>>>> develop
+<<<<<<< HEAD
 
 Rebasing is new to us
+=======
+I am here in file4
+>>>>>>> mybranch
+merging with master
+
+I am doing some changes for merging
