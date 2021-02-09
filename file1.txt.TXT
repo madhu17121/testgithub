@@ -5,3 +5,4 @@ Welcome to devops training
 branching in git
 
 test tagging
+testing stash
