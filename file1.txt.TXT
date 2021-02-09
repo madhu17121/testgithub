@@ -6,3 +6,4 @@ branching in git
 
 test tagging
 testing stash
+today testing for stash for staged files
