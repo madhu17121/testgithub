@@ -7,3 +7,4 @@ testing in file1.txt
 new change on file1.txt
 test on trash example
 stashing for Branch
+change to file1.txt

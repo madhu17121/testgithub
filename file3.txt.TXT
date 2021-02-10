@@ -12,3 +12,4 @@ change in file 3 for branching tes
 git hub testing
 my testing
 adding stash branch
+change to file3.txt.TXT
