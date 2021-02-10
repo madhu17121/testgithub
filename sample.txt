@@ -3,3 +3,4 @@ Adding new things
 important note on stash
 status change
 test stash
+modified sample
