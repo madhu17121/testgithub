@@ -8,3 +8,5 @@ test tagging
 testing stash
 today testing for stash for staged filestest for stash
 My stashed file
+Testing for stashed file in file1.txt
+testing multi stash
