@@ -5,3 +5,4 @@ My stashed file
 Testing for stashed file in file1.txt
 testing in file1.txt
 new change on file1.txt
+test on trash example
