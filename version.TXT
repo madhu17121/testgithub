@@ -1,3 +1,7 @@
 version test
-
 vewrsion test13rd change
+<<<<<<< Updated upstream
+stash1:1st change
+stash2:2nd change
+stash3:3rd change
+stash4 :4th change
