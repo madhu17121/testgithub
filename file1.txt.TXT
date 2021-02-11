@@ -9,3 +9,4 @@ test on trash example
 stashing for Branch
 change to file1.txt
 test for branching
+stash3:change branch

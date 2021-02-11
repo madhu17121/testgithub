@@ -11,3 +11,4 @@ testing stash
 adding stash for branching
 change in file2
 testing for newbranch
+stash2:change done
